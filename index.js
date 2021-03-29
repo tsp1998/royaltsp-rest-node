@@ -6,6 +6,7 @@ const PORT = process.env.PORT || 80;
 
 const redirect = () => {
   const urls = [
+    'http://royaltsp.great-site.net/thecbx/health-check.php',
     'https://thecbx.000webhostapp.com/health-check.php',
   ];
 
